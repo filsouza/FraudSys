@@ -11,7 +11,7 @@ Desenvolvido em .NET 8 com Clean Code, SOLID e testes unitários, utiliza AWS Dy
 
 ### Substituindo o arquivo de configuração - Credenciais AWS DynamoDB
 
-O arquivo `appsettings.json` incluído no repositório contém apenas valores de exemplo para as credenciais AWS. Para rodar o projeto com acesso ao banco de dados, você deve substituir esse arquivo pelo arquivo `appsettings.Development.json` que contém as credenciais reais e que foi enviado separadamente por email.
+O arquivo `appsettings.json` incluído no repositório contém apenas valores de exemplo para as credenciais AWS. Para rodar o projeto com acesso ao banco de dados, você deve substituir esse arquivo pelo arquivo `appsettings.json` que contém as credenciais reais e que foi enviado separadamente por email.
 
 Para isso:
 
