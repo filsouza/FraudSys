@@ -10,10 +10,10 @@ O armazenamento é feito de forma segura e escalável com uso do **AWS DynamoDB*
 
 ## Tecnologias utilizadas
 
-- .NET 8
-- AWS DynamoDB
-- xUnit & Moq (testes unitários)
-- Clean Code / SOLID
+- .NET 8  
+- AWS DynamoDB  
+- xUnit & Moq (testes unitários)  
+- Clean Code / SOLID  
 
 ---
 
@@ -23,7 +23,7 @@ O projeto inclui um arquivo `appsettings.json` com **valores de exemplo**. Para 
 
 ### Passo a passo:
 
-1. Acesse o diretório de credenciais enviado:
+1. Acesse o diretório de credenciais enviado (por canal privado).
 2. Copie o arquivo `appsettings.json` fornecido.
 3. Na **pasta raiz** do projeto, localize o arquivo `appsettings.json` original.
 4. Faça um backup, se desejar preservar os valores de exemplo.
@@ -50,29 +50,27 @@ Após essa substituição, o sistema já estará apto a utilizar as credenciais 
     "SecretKey": "SECRET_KEY_AQUI"
   }
 }
-
-Testes
+```
 
 ---
 
-Se preferir algo ainda mais didático:
-
-```md
 ## Testes
 
 Este projeto possui testes unitários utilizando **xUnit** e **Moq**, localizados na solução `FraudSys.Tests`.
 
 ### Como executar os testes:
 
-1. Abra o terminal na raiz da solução.
+1. Abra o terminal na raiz da solução.  
 2. Execute o comando abaixo:
 
-
+```bash
 dotnet test
+```
+
+---
 
 ## Contato
 
 Caso tenha dúvidas, sugestões ou deseje conversar sobre o projeto, fico à disposição.
 
 [Meu LinkedIn](https://www.linkedin.com/in/felipe-alves-de-souza-santos-a65584142/)
-
