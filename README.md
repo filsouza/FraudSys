@@ -57,7 +57,6 @@ Testes
 
 Se preferir algo ainda mais didático:
 
-```md
 ## Testes
 
 Este projeto possui testes unitários utilizando **xUnit** e **Moq**, localizados na solução `FraudSys.Tests`.
@@ -67,7 +66,7 @@ Este projeto possui testes unitários utilizando **xUnit** e **Moq**, localizado
 1. Abra o terminal na raiz da solução.
 2. Execute o comando abaixo:
 
-```bash
+
 dotnet test
 
 ## Contato
