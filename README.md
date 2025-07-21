@@ -44,7 +44,7 @@ Após essa substituição, o sistema já estará apto a utilizar as credenciais 
     }
   },
   "AWS": {
-    "Region": "us-east-2",
+    "Region": "us-east-1",
     "TableName": "Clientes",
     "AccessKey": "ACCESS_KEY_AQUI",
     "SecretKey": "SECRET_KEY_AQUI"
